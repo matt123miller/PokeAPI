@@ -1,2 +1,2 @@
 # PokeAPI
-Hitting the PokéAPI to learn more about using C# and REST
+Hitting the [PokéAPI](https://pokeapi.co/) to learn more about using C# with REST and JSON manipulation.
